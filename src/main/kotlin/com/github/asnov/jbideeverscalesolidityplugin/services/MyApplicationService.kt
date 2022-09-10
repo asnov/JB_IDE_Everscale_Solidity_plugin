@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.asnov.jbideeverscalesolidityplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.asnov.jbideeverscalesolidityplugin.MyBundle
 
 class MyApplicationService {
 
